@@ -28,16 +28,17 @@ Final step being data analysis and visualization, in which we determined number 
 
 Some relevant graphs of the project:
 
-![top 10 categories](https://user-images.githubusercontent.com/112775752/210235873-e9e6d7db-650c-40ed-bf41-fa96e31c4237.png)
+![top 10 categories](https://user-images.githubusercontent.com/112775752/210235873-e9e6d7db-650c-40ed-bf41-fa96e31c4237.png)     
 
 ![free or paid](https://user-images.githubusercontent.com/112775752/210235897-2fefc6fa-c403-4d78-a515-c30bad6e2060.png)
 
+![installs](https://user-images.githubusercontent.com/112775752/210236022-5c96876c-ad71-4e0d-8b55-ddffc1c994aa.png)      
 
-![installs](https://user-images.githubusercontent.com/112775752/210236022-5c96876c-ad71-4e0d-8b55-ddffc1c994aa.png)
+![sentiment count](https://user-images.githubusercontent.com/112775752/210236086-9552ed3c-28d9-476d-b9c6-46bcf1ef76af.png)
 
 ![heatmap](https://user-images.githubusercontent.com/112775752/210236062-091d8939-8562-44fd-9107-001ea92b8fb6.png)
 
-![sentiment count](https://user-images.githubusercontent.com/112775752/210236086-9552ed3c-28d9-476d-b9c6-46bcf1ef76af.png)
+
 
 CONCLUSION
 
